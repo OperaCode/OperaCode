@@ -5,11 +5,11 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 🚀 About Me  
-I’m Raphael, a passionate **Full Stack Developer** with a knack for building seamless and innovative digital solutions. 🌟 Transitioned from a career in **Supply Chain & Logistics**, I bring strong analytical problem-solving skills, attention to detail, and continuous improvement principles to every project I tackle.  
+I’m Raphael, a passionate **Full Stack Developer** with a knack for building seamless and innovative digital solutions. 🌟 Transitioning from a career in **Supply Chain & Logistics**, I bring strong analytical problem-solving skills, attention to detail, and continuous improvement principles to every project I tackle.  
 
 - 🔭 **Currently Working On**: A MERN stack app for personal finance management.  
 - 🌱 **Learning Goals**: Advanced **DevOps practices** (CI/CD), **backend performance optimization**, and exploring **Blockchain and Web3** technologies.  
-- 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and personal development and mastery tips.  
+- 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and freelancing tips.  
 
 ---
 
@@ -19,6 +19,8 @@ I’m Raphael, a passionate **Full Stack Developer** with a knack for building s
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
@@ -26,6 +28,15 @@ I’m Raphael, a passionate **Full Stack Developer** with a knack for building s
 
 ### **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
+
+### **Data Analysis Tools**  
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
+![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white&style=for-the-badge)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)  
+![Charts](https://img.shields.io/badge/-Data_Visualization-FFBB00?style=for-the-badge)  
+
+### **Design Tools**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
 
 ### **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
