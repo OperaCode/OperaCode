@@ -5,11 +5,11 @@ Welcome to my GitHub profile! 🚀
 
 
 ## 🚀 About Me  
-I’m Raphael, a passionate **Full Stack Developer** with a knack for building seamless and innovative digital solutions. 🌟 Transitioning from a career in **Supply Chain & Logistics**, I bring strong analytical problem-solving skills, attention to detail, and continuous improvement principles to every project I tackle.  
+I’m Raphael, a passionate **Full Stack Developer** with a knack for building seamless and innovative digital solutions. 🌟 Transitioned from a career in **Supply Chain & Logistics**, I bring strong analytical problem-solving skills, attention to detail, and continuous improvement principles to every project I tackle and collaborate on. 
 
 - 🔭 **Currently Working On**: A MERN stack app for personal finance management.  
 - 🌱 **Learning Goals**: Advanced **DevOps practices** (CI/CD), **backend performance optimization**, and exploring **Blockchain and Web3** technologies.  
-- 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and freelancing tips.  
+- 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and personal development/, mentoring tips.  
 
 
 
