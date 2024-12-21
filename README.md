@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀  
 
----
+
 
 ## 🚀 About Me  
 I’m Raphael, a passionate **Full Stack Developer** with a knack for building seamless and innovative digital solutions. 🌟 Transitioning from a career in **Supply Chain & Logistics**, I bring strong analytical problem-solving skills, attention to detail, and continuous improvement principles to every project I tackle.  
@@ -11,7 +11,7 @@ I’m Raphael, a passionate **Full Stack Developer** with a knack for building s
 - 🌱 **Learning Goals**: Advanced **DevOps practices** (CI/CD), **backend performance optimization**, and exploring **Blockchain and Web3** technologies.  
 - 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and freelancing tips.  
 
----
+
 
 ## 🛠️ My Tech Stack  
 
@@ -42,7 +42,7 @@ I’m Raphael, a passionate **Full Stack Developer** with a knack for building s
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
 
----
+
 
 ## 🌟 Featured Projects  
 
@@ -52,7 +52,6 @@ A freelancing platform built with React to connect professionals with clients.
 - Intuitive job posting and application system  
 - Dynamic dashboards for users  
 
----
 
 ### 2. [**Hostel Management App**](https://github.com/OperaCode/Hostel-Management-App.git)  
 A robust app for managing hostels, tweaked to support other business units like guest houses and rental services.  
@@ -61,7 +60,6 @@ A robust app for managing hostels, tweaked to support other business units like 
 - Tenant registration and room assignment  
 - Business unit scalability  
 
----
 
 ### 3. [**Simple and Functional Dictionary App**](https://github.com/OperaCode/Dictionary_App-.git)  
 A sleek dictionary app to search for words and get meanings instantly.  
@@ -70,7 +68,6 @@ A sleek dictionary app to search for words and get meanings instantly.
 - Word search with synonyms and examples  
 - Minimalist design for ease of use  
 
----
 
 ### 4. [**Expense Management App**](https://github.com/OperaCode/expense-management-app.git)  
 A personal finance tracker for monitoring income and expenses effectively.  
@@ -80,21 +77,21 @@ A personal finance tracker for monitoring income and expenses effectively.
 - Visualize spending through dynamic charts  
 - Persistent data storage  
 
----
+
 
 ## 📊 GitHub Stats  
 
 ![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OperaCode&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical)  
 
----
+
 
 ## 📫 How to Reach Me  
 
 - **Twitter**: [@0pera_dev](https://x.com/0pera_dev?s=11&t=YUuj0_BWUL2YKEV61u7gzQ)  
 - **Email**: raphaelfaboyinde27@gmail.com  
 
----
+
 
 ## ✨ Fun Facts  
 
