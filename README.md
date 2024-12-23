@@ -29,11 +29,6 @@ I’m a passionate **Full Stack Developer** with a knack for building seamless a
 ### **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
 
-### **Data Analysis Tools**  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
-![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?logo=google-sheets&logoColor=white&style=for-the-badge)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)  
-![Charts](https://img.shields.io/badge/-Data_Visualization-FFBB00?style=for-the-badge)  
 
 ### **Design Tools**  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
@@ -61,15 +56,7 @@ A robust app for managing hostels, tweaked to support other business units like 
 - Business unit scalability  
 
 
-### 3. [**Simple and Functional Dictionary App**](https://github.com/OperaCode/Dictionary_App-.git)  
-A sleek dictionary app to search for words and get meanings instantly.  
-**Tech Stack**: React, Free Dictionary API  
-**Features**:  
-- Word search with synonyms and examples  
-- Minimalist design for ease of use  
-
-
-### 4. [**Expense Management App**](https://github.com/OperaCode/expense-management-app.git)  
+### 3. [**Expense Management App**](https://github.com/OperaCode/expense-management-app.git)  
 A personal finance tracker for monitoring income and expenses effectively.  
 **Tech Stack**: React, Context API, Local Storage  
 **Features**:  
