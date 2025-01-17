@@ -75,7 +75,8 @@ A personal finance tracker for monitoring income and expenses effectively.
 
 ## 📫 How to Reach Me  
 
-- **LinkedIn**: linkedin.com/in/raphael-faboyinde-a031b1195 
+- **LinkedIn**: [linkedin.com/in/raphael-faboyinde-a031b1195 ](https://www.linkedin.com/in/raphael-faboyinde-a031b1195
+)
 - **Twitter**: [@0pera_dev](https://x.com/0pera_dev?s=11&t=YUuj0_BWUL2YKEV61u7gzQ)  
 - **Email**: raphaelfaboyinde27@gmail.com  
 
