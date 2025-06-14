@@ -42,11 +42,12 @@ I’m a Full Stack Developer with a knack for building innovative digital soluti
 
 ## 🌟 Featured Projects  
 
-### 1. [**React Job**](https://github.com/OperaCode/React_Job.git)  
-A freelancing platform built with React to connect professionals with clients.  
+### 1. [**PayWise**](https://github.com/OperaCode/PayWise.git)  
+An automation payment app that pays vendors using email address.  
 **Features**:  
-- Intuitive job posting and application system  
-- Dynamic dashboards for users  
+- Payment by email  
+- Dynamic dashboards and analytics for users
+- Bulk Payment for active billers  
 
 
 ### 2. [**Hostel Management App**](https://github.com/OperaCode/Hostel-Management-App.git)  
@@ -78,7 +79,7 @@ A personal finance tracker for monitoring income and expenses effectively.
 
 - **LinkedIn**: [linkedin.com/in/raphael-faboyinde-a031b1195 ](https://www.linkedin.com/in/raphael-faboyinde-a031b1195
 )
-- **Twitter**: [@0pera_dev](https://x.com/0pera_dev?s=11&t=YUuj0_BWUL2YKEV61u7gzQ)  
+- **Twitter**: [@OperaFaboyinde](https://x.com/0pera_dev?s=11&t=YUuj0_BWUL2YKEV61u7gzQ)  
 - **Email**: raphaelfaboyinde27@gmail.com  
 
 
