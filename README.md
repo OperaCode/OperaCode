@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 I’m a Full Stack Developer with a knack for building innovative digital solutions. 🌟 Skilled in and problem-solving/debugging, strong analytical problem-solving skills, attention to detail, team-work, and CI/CD to every project I tackle and collaborate on.
 
 
-- 🔭 **Currently Working On**: A MERN stack app for personal finance management.  
+- 🔭 **Currently Working On**: MERN stack,Finance Management apps,BlockChain Technologies and Web3.  
 - 🌱 **Learning Goals**: Advanced **DevOps practices** (CI/CD), **backend performance optimization**, and exploring **Blockchain and Web3** technologies.  
 - 💬 **Ask Me About**: Full-stack development, APIs, transitioning into tech, and personal development/, mentoring tips.  
 
