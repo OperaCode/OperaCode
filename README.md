@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Raphael!  
 
-Welcome to my GitHub profile! 🚀  
-
-
-
 🚀 About Me
 I’m a Full Stack Developer with a knack for building innovative digital solutions. 🌟 Skilled in and problem-solving/debugging, strong analytical problem-solving skills, attention to detail, team-work, and CI/CD to every project I tackle and collaborate on.
 
@@ -43,28 +39,28 @@ I’m a Full Stack Developer with a knack for building innovative digital soluti
 ## 🌟 Featured Projects  
 
 ### 1. [**PayWise**](https://github.com/OperaCode/PayWise.git)  
-An automation payment app that pays vendors using email address.  
+A bill payment solution that give users complete control over their financial commitments, standing out with its innovative TRS (Tokenised Reward System) feature for bill payments, rewarding users for staying financially disciplined 
 **Features**:  
-- Payment by email  
-- Dynamic dashboards and analytics for users
-- Bulk Payment for active billers  
+- Peer to peer payment by email  
+- Dynamic dashboards and spending /biller analytics for users
+- Bulk and recurring payment for active billers  
 
 
-### 2. [**Hostel Management App**](https://github.com/OperaCode/Hostel-Management-App.git)  
-A robust app for managing hostels, tweaked to support other business units like guest houses and rental services.  
+### 2. [**AiMee**](https://github.com/OperaCode/Aimee.git)  
+Aimee allows you to select from a variety of chatbot personalities—ranging from happy and calm to focused and creative- tailored to suit your current mood or goals.  
 **Tech Stack**: MERN Stack, Context API, Web API  
 **Features**:  
-- Tenant registration and room assignment  
-- Business unit scalability  
+- 🧠 Multiple AI Personalities
+- 🔁 Mood Switching
+- 💬 Realistic Chat UI
 
-
-### 3. [**Expense Management App**](https://github.com/OperaCode/expense-management-app.git)  
-A personal finance tracker for monitoring income and expenses effectively.  
+### 3. [**HomeIQ**](https://github.com/OperaCode/HomeIQ.git)  
+A smart household inventory tracker that helps you manage pantry items, monitor shelf life, and stay organized effortlessly.
 **Tech Stack**: React, Context API, Local Storage  
 **Features**:  
-- Add, edit, and delete transactions  
-- Visualize spending through dynamic charts  
-- Persistent data storage  
+- 🧮 Track quantity and shelf life (expiry)
+- 📉 Subtract items as they’re used (with a minus button) 
+- 📊 Visual inventory stats 
 
 
 
