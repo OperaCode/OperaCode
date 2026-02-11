@@ -1,9 +1,9 @@
 # Raphael Faboyinde — Opera  
-### Full-Stack Engineer • Systems Builder • BlockChain & Web3 Infrastructure  
+### Full-Stack Engineer • Technical and Team Builder • BlockChain & Web3 Builder.  
 
-I design and build with intent across Web2 and Web3.
+I design infrastructures,processes and build with intent across Web2 and Web3.
 
-My work sits at the intersection of **backend engineering, blockchain state, cryptography, and real-world product systems.**  
+My work sits at the intersection of **real-world product systems.**  
 I focus on how systems behave — ** data flow, reliability, and scale.**
 
 I don’t just build apps. I build **systems that persist, coordinate, and evolve.**
