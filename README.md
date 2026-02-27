@@ -1,136 +1,81 @@
-# Raphael Faboyinde — Opera  
-### Full-Stack Engineer • Technical and Team Builder • BlockChain & Web3 Builder.  
+# Raphael Faboyinde (Opera)
 
-I design infrastructures,processes and build with intent across Web2 and Web3.
+Full-Stack Developer building across Web2 and Web3 systems.
 
-My work sits at the intersection of **real-world product systems.**  
-I focus on how systems behave — ** data flow, reliability, and scale.**
+I design and implement software solutions end-to-end — focusing on **User Experience, reliable backend systems, practical product architecture, and process-driven problem solving** by thinking from both system behavior and user experience.
 
-I don’t just build apps. I build **systems that persist, coordinate, and evolve.**
+Currently expanding into blockchain engineering using Solidity, Hardhat, and Foundry while continuing full-stack development.
 
 ---
 
-## Current Direction
+## Focus
 
-- Building **PayWise** — Financial infrastructure & automated payment architecture  
-- Studying **Ethereum internals, state trees, and protocol mechanics**  
-- Deepening **backend performance, distributed systems & DevOps**  
-- Exploring **AI + intelligent system integration**  
-
----
-
-## Engineering Focus
-
-- Stateful backend systems  
-- Financial & payment architecture  
-- Blockchain & cryptographic state  
-- API and data flow design  
-- Performance & reliability  
-- System thinking over surface implementation  
+* Backend architecture & API design
+* Smart contract development & testing
+* Process improvement through software
+* Designing solutions around real-world constraints
+* Building with user workflows and real usage in mind
 
 ---
 
-## Tech Stack
+## Stack
 
-### Languages  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+**Languages**
+TypeScript • JavaScript • Solidity
 
-### Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+**Frontend**
+React • Redux • TailwindCSS
 
-### Backend & Infrastructure  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+**Backend**
+Node.js • Express • REST APIs
 
-### Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+**Data Layer**
+MongoDB
 
-### Blockchain / Web3  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=for-the-badge)
-![Solidity](https://img.shields.io/badge/-Solidity-000000?logo=solidity&logoColor=white&style=for-the-badge)
+**Web3 Tooling**
+Solidity • Hardhat • Foundry • Ethers.js • IPFS
 
-### Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+**Tools**
+Git • Postman • VS Code
 
 ---
 
-## Featured Systems
+## Selected Work
 
-### PayWise — Financial System Architecture  
-A full-stack **wallet, payment, and automated finance infrastructure** designed for control, reliability, and discipline.
-
-**Core Systems**
-- Wallet & transaction state engine  
-- Recurring and bulk payment processor  
-- Financial analytics & dashboards  
-- Tokenised reward mechanism (TRS)  
-- Peer-to-peer payment architecture  
-
+**PayWise** — automated payment & wallet infrastructure
+Designing transaction flows, recurring payments, and financial state management.
 https://github.com/OperaCode/PayWise
 
----
-
-### AiMee — Adaptive Intelligence System  
-A personality-driven AI conversational engine that adapts to user mood and cognitive context.
-
+**AiMee** — adaptive conversational system
+Experimenting with context-aware interaction models.
 https://github.com/OperaCode/Aimee
 
----
-
-### HomeIQ — Inventory State Tracker  
-A state-aware system for tracking physical inventory, consumption, and lifecycle.
-
+**HomeIQ** — inventory state tracking system
+Tracking lifecycle and usage of physical assets through software.
 https://github.com/OperaCode/HomeIQ
 
 ---
 
-## Writing & Research
+## Engineering Interests
 
-I write about **Ethereum, system architecture, and blockchain mechanics.**
-
-- Medium → https://medium.com/@raphaelfaboyinde  
-- Research topics:
-  - Ethereum state & Merkle Patricia Trie
-  - EIP evolution & protocol mechanics
-  - Cryptography & system security
-  - Blockchain architecture
+System design • Distributed systems • Financial infrastructure • Blockchain mechanics • Applied problem solving
 
 ---
 
-## GitHub Signal
+## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OperaCode&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical)
-
----
-
-## Connect
-
-- LinkedIn → https://www.linkedin.com/in/raphael-faboyinde-a031b1195  
-- Twitter (X) → https://x.com/0pera_dev  
-- Email → raphaelfaboyinde27@gmail.com  
-- Medium → https://medium.com/@raphaelfaboyinde  
+![stats](https://github-readme-stats.vercel.app/api?username=OperaCode\&show_icons=true\&theme=radical\&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OperaCode\&layout=compact\&theme=radical\&hide_border=true)
 
 ---
 
-## Identity
+## Writing
 
-Opera = Opeyemi Raphael  
-
-Engineering, systems, and structure — with creativity.
+https://medium.com/@raphaelfaboyinde
 
 ---
 
-## Engineering Principle
+## Contact
 
-> Systems over scripts  
-> State over UI  
-> Architecture over shortcuts  
-> Understanding over imitation  
-
----
+LinkedIn — https://www.linkedin.com/in/raphael-faboyinde-a031b1195
+X — https://x.com/0pera_dev
