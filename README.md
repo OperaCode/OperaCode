@@ -64,9 +64,9 @@ System design • Distributed systems • Financial infrastructure • Blockchai
 
 ## Activity
 
-![stats](https://github-readme-stats.vercel.app/api?username=OperaCode\&show_icons=true\&theme=radical\&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OperaCode\&layout=compact\&theme=radical\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OperaCode&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 ---
 
 ## Writing
