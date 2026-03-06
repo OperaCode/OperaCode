@@ -1,8 +1,8 @@
 # Raphael Faboyinde (Opera)
 
-Full-Stack Developer building across Web2 and Web3 systems.
+Full-Stack Developer building systems across Web2 and Web3.
 
-I design and implement software solutions end-to-end — focusing on **User Experience, reliable backend systems, practical product architecture, and process-driven problem solving** by thinking from both system behavior and user experience.
+I design and implement software solutions end-to-end, focusing on **User Experience, reliable backend systems, practical product architecture, and process-driven problem solving** by thinking from both system behavior and user experience.
 
 Currently expanding into blockchain engineering using Solidity, Hardhat, and Foundry while continuing full-stack development.
 
