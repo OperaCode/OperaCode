@@ -10,7 +10,7 @@ Currently expanding into blockchain engineering using Solidity, Hardhat, and Fou
 
 ## Focus
 
-* Backend architecture & API design
+* End-to-end system architecture & design
 * Smart contract development & testing
 * Process improvement through software
 * Designing solutions around real-world constraints
@@ -60,7 +60,7 @@ Experimenting with context-aware interaction models.
 https://github.com/OperaCode/Aimee
 
 **HomeIQ** — inventory state tracking system
-Tracking lifecycle and usage of physical assets through software.
+Tracking lifecycle and usage of physical home inventory through software.
 https://github.com/OperaCode/HomeIQ
 
 ---
