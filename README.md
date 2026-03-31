@@ -68,7 +68,7 @@ https://github.com/OperaCode/HomeIQ
 
 ## Engineering Interests
 
-System design • Distributed systems • Financial infrastructure • Blockchain mechanics • Applied problem solving
+System design • Techinical Product Development • Supply Chain and Logistics infrastructure • Blockchain mechanics • Applied problem solving
 
 ---
 
