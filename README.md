@@ -12,6 +12,7 @@ Currently expanding into blockchain engineering using Solidity, Hardhat, and Fou
 
 * End-to-end system architecture & design
 * Smart contract development & testing
+* Web developement
 * Process improvement through software
 * Designing solutions around real-world constraints
 * Building with user workflows and real usage in mind
