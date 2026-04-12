@@ -1,4 +1,4 @@
-# Raphael Faboyinde (Opera)
+# Raphael Faboyinde
 
 Full-Stack Developer building systems across Web2 and Web3.
 
