@@ -64,7 +64,6 @@ System design • Techinical Product Development • Supply Chain and Logistics 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical&hide_border=true)
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OperaCode&theme=radical&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=OperaCode&theme=radical&hide_border=true&v=2)
 
 ---
