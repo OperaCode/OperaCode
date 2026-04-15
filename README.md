@@ -1,23 +1,21 @@
 # Raphael Faboyinde
 
-Systems Engineer building operational and financial infrastructure.
+Systems Engineer focused on building software for real-world operations — payments, inventory, and workflows.
 
-I design and implement systems that manage real-world processes — from payments and wallets to inventory and lifecycle tracking.
+From supply chain to software, I design systems that manage how things move, scale, and behave over time.
 
-With a background in core supply chain (Inventory and Operations), I approach software as infrastructure for real usage, focusing on how systems behave over time, not just how they are built.
 
-Currently expanding into blockchain engineering and smart contract writing using Solidity, Hardhat, and Foundry .
+Exploring smart contracts and on-chain systems (Solidity, Foundry).
 
 ---
 
 ## Focus
 
-* Translate operational processes into scalable software systems
-* Designing solutions around real-world constraints and gaps
-* System design & architecture
-* Web developement, Data Analysis and interpretation
-* Smart contract development & testing
-* Building with user workflows and real usage
+- Operational systems (inventory, workflows, lifecycle)
+- Financial systems (payments, wallets, automation)
+- System design & architecture
+- Smart contracts (Solidity, Foundry)
+- Building for real-world usage
 
 ---
 
@@ -61,8 +59,6 @@ System design • Techinical Product Development • Supply Chain and Logistics 
 ---
 
 ## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=OperaCode&theme=radical&hide_border=true&v=2)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical&hide_border=true)
 ---
