@@ -1,20 +1,23 @@
 # Raphael Faboyinde
 
-Full-Stack Developer building systems across Web2 and Web3.
+Systems Engineer building operational and financial infrastructure.
 
-I design and implement software solutions end-to-end, focusing on **User Experience, reliable backend systems, practical product architecture, and process-driven problem solving** by thinking from both system behavior and user experience.
+I design and implement systems that manage real-world processes — from payments and wallets to inventory and lifecycle tracking.
 
-Currently expanding into blockchain engineering using Solidity, Hardhat, and Foundry .
+With a background in core supply chain (Inventory and Operations), I approach software as infrastructure for real usage, focusing on how systems behave over time, not just how they are built.
+
+Currently expanding into blockchain engineering and smart contract writing using Solidity, Hardhat, and Foundry .
 
 ---
 
 ## Focus
 
-* End-to-end system architecture & design
+* Translate operational processes into scalable software systems
+* Designing solutions around real-world constraints and gaps
+* System design & architecture
+* Web developement, Data Analysis and interpretation
 * Smart contract development & testing
-* Web developement
-* Designing solutions around real-world constraints
-* Building with user workflows and real usage in mind
+* Building with user workflows and real usage
 
 ---
 
@@ -48,20 +51,6 @@ Currently expanding into blockchain engineering using Solidity, Hardhat, and Fou
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)---
-
-## Selected Work
-
-**PayWise** — automated payment & wallet infrastructure
-Designing transaction flows, recurring payments, and financial state management.
-https://github.com/OperaCode/PayWise
-
-**AiMee** — adaptive conversational system
-Experimenting with context-aware interaction models.
-https://github.com/OperaCode/Aimee
-
-**HomeIQ** — inventory state tracking system
-Tracking lifecycle and usage of physical home inventory through software.
-https://github.com/OperaCode/HomeIQ
 
 ---
 
