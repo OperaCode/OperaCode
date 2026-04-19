@@ -4,7 +4,6 @@ Systems Engineer focused on building software for real-world operations — paym
 
 From supply chain to software, I design systems that manage how things move, scale, and behave over time.
 
-
 Exploring smart contracts and on-chain systems (Solidity, Foundry).
 
 ---
@@ -62,7 +61,7 @@ System design • Techinical Product Development • Supply Chain and Logistics 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OperaCode&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OperaCode&layout=compact&theme=radical&hide_border=true)
----
+--
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OperaCode&theme=radical&hide_border=true&v=2)
 
